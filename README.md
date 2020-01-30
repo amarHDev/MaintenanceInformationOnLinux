@@ -16,10 +16,9 @@ $gcc -o mheur mheur.c
 $gcc -o mheurhiverete.c  
 
 ```
-To run the program 
+Secondly run the program with :
 ```
 $./main
-
 ```
 
 # Documentation
